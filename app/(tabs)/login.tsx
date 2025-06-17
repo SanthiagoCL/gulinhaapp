@@ -1,9 +1,7 @@
 import React, { useState } from 'react';
 import {
-  KeyboardAvoidingView,
-  Platform,
-  Alert, // Para exibir alertas
-  Image, // Para a imagem do chef
+  Alert,
+  Platform
 } from 'react-native';
 import styled from 'styled-components/native'; // Importe de 'native' para React Native
 
